@@ -1,0 +1,19 @@
+.about-page 
+{
+    min-height: 500px;
+    background-color: rgb(241, 183, 74);
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.home-page h1 
+{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.home-page h3 
+{
+    text-align: center;
+    margin-bottom: 0;
+}
